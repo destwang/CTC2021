@@ -1,5 +1,7 @@
 # CIEC-CTC 2021 (Chinese Text Correction)
 
+## 2021.06.28
+增加报名成功[队伍信息](https://github.com/destwang/CTC2021/blob/main/team_info.md)，包括队伍名和codalab账号。
 
 ## 2021.06.25
 训练数据已邮件发送给通过报名审核的队伍，如未收到邮件，请联系rdg_feiying@iflytek.com。
