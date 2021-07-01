@@ -1,5 +1,10 @@
 # CIEC-CTC 2021 (Chinese Text Correction)
 
+## 2021.07.01
+开放资格赛评测，发放资格赛评测数据及Baseline。
+
+Baseline模型使用[GECToR](https://github.com/grammarly/gector), 训练和推理代码见ctc_gector，模型将邮件发放给各参赛队伍。
+
 ## 2021.06.28
 增加报名成功[队伍信息](https://github.com/destwang/CTC2021/blob/main/team_info.md)，包括队伍名和codalab账号。
 
