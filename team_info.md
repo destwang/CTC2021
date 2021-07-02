@@ -47,3 +47,25 @@
 | 李泓杰990109     | LiHongJie990109             |
 | ylinlinz      | zyang                       |
 | 还没想好叫什么队      | jiahao12138                 |
+|haha-learn|	nipi|
+|Sun champion	| FourierTT|
+|SOV	| shifenglin|
+|BOENlper|	uloveqian |
+| 这是一个队名|	hahahahaha |
+| DH-ARI	| Pogeba|
+| 默默无闻小菜鸡 | 	Casserolefish|
+| UMNLP	| ConnieTong |
+| -	| Mr_Xiaoaaa |
+| Fire | 	kongxiaofei1992 |
+| 电费战士007 |	lsq000 |
+| 智文|	zyxh |
+| nlp-L	 | YiLing28 |
+| only-one |	zjjbupt |
+| 小桔子	| carlosli_i |
+| 系统之神与我同在 |	XWQ |
+ |X-XZ	| X-X |
+ | soy sauce？|	sdtyuline |
+|硬Train一发	|hstk |
+|TODO	|YUJI_0320 |
+|nobody	|yzc |
+|改的都对	|qifanchao866 |
