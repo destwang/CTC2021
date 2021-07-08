@@ -1,10 +1,9 @@
 #!/bin/bash
 
 
-MODEL_PATH=pytorch_bert_zh_model
+MODEL_PATH=ctc2021_baseline
 VOCAB_PATH=data/output_vocabulary/
-BASE_PATH=ctc2021_baseline/best.th
-INPUT_FILE=qualification_input.txt
+INPUT_FILE=dev_input.txt
 OUTPUT_FILE=${INPUT_FILE}.output
 
 python segment.py < $INPUT_FILE > ${INPUT_FILE}.tok

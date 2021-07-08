@@ -1,5 +1,8 @@
 # CIEC-CTC 2021 (Chinese Text Correction)
 
+## 2021.07.08
+更新Baseline模型代码，方便选手复线模型。使用方法见[ctc_gector/README.md](https://github.com/destwang/CTC2021/blob/main/ctc_gector/README.md)
+
 ## 2021.07.07
 对选手常见问题进行总结归纳，详见[FAQ](#FAQ)。
 
