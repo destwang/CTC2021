@@ -1,5 +1,8 @@
 # CIEC-CTC 2021 (Chinese Text Correction)
 
+## 2021.08.06
+已通过邮件将第二阶段训练集、验证集数据发送给通过初赛的队伍，请参赛队伍查收。
+
 ## 2021.07.27
 发布[文本校对资源集合](https://github.com/destwang/CTCResources)，供选手参考。
 
