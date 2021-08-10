@@ -1,5 +1,8 @@
 # CIEC-CTC 2021 (Chinese Text Correction)
 
+## 2021.08.10
+更新评测脚本，使用方法见[ctc_gector/README.md](https://github.com/destwang/CTC2021/blob/main/ctc_gector/README.md)
+
 ## 2021.08.06
 已通过邮件将第二阶段训练集、验证集数据发送给通过初赛的队伍，请参赛队伍查收。
 

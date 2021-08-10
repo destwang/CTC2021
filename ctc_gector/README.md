@@ -22,3 +22,9 @@ sh run_bert_ctc2021.sh
 python utils/preprocess_data.py -s SOURCE -t TARGET -o OUTPUT_FILE
 ```
 4. 使用stage1_bert_ctc2021.sh训练模型  
+
+
+### 评测
+```
+python evaluate.py -r reference_file -t predict_file
+```
