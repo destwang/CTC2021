@@ -54,16 +54,16 @@ def cal_f1(ref_num, pred_num, right_num):
 
 def evaluate(input_file, ref_file, pred_file):
     pid_to_text = read_input_file(input_file)
-    _, ref_det_set, ref_cor_set = read_label_file(pid_to_text, ref_file)
-    pred_error_set, _, pred_cor_set = read_label_file(pid_to_text, pred_file)
+    ref_error_set, ref_det_set, ref_cor_set = read_label_file(pid_to_text, ref_file)
+    pred_error_set, pred_det_set, pred_cor_set = read_label_file(pid_to_text, pred_file)
 
     ref_num = len(ref_cor_set)
     pred_num = len(pred_cor_set)
 
     det_right_num = 0
-    for error in pred_error_set:
+    for error in ref_error_set:
         pid, loc, wrong, cor_text = error
-        if (pid, loc, wrong) in ref_det_set or (pid, cor_text) in ref_cor_set:
+        if (pid, loc, wrong) in pred_det_set or (pid, cor_text) in pred_cor_set:
             det_right_num += 1
     detect_f1 = cal_f1(ref_num, pred_num, det_right_num)
     

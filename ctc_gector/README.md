@@ -26,5 +26,5 @@ python utils/preprocess_data.py -s SOURCE -t TARGET -o OUTPUT_FILE
 
 ### 评测
 ```
-python evaluate.py -r reference_file -p predict_file
+python evaluate.py -i input_file -r reference_file -p predict_file
 ```
