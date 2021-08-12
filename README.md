@@ -1,5 +1,8 @@
 # CIEC-CTC 2021 (Chinese Text Correction)
 
+## 2021.08.12
+对评测方法进行优化，优化连续冗余的评测，详情见[更新脚本](https://github.com/destwang/CTC2021/blob/main/ctc_gector/evaluate.py)。
+
 ## 2021.08.10
 更新评测脚本，使用方法见[ctc_gector/README.md](https://github.com/destwang/CTC2021/blob/main/ctc_gector/README.md)
 
