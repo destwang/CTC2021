@@ -1,5 +1,9 @@
 # CIEC-CTC 2021 (Chinese Text Correction)
 
+
+## 2021.08.19
+决赛成绩榜单在git上定时更新，请在[排名列表](https://github.com/destwang/CTC2021/blob/main/ranking.md)查看。成绩将在每支队伍提交系统后两个工作日内进行更新，比赛结束后，最终成绩榜单将于[人工智能协会比赛官网](https://2021aichina.caai.cn/track?id=5)进行公布.
+
 ## 2021.08.12
 对评测方法进行优化，优化连续冗余的评测，详情见[更新脚本](https://github.com/destwang/CTC2021/blob/main/ctc_gector/evaluate.py)。
 
