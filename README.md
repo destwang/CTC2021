@@ -1,6 +1,6 @@
 # CIEC-CTC 2021 (Chinese Text Correction)
 
-## 比赛排名
+## 比赛当前排名(2021.08.27更新)
 
 | 排名 | 队伍名 |Codalab账号 | 机构 |  detect_f1 | correct_f1 | final_score |
 | - | - | - | - | - | - | - |
