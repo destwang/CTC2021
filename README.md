@@ -1,4 +1,10 @@
 # CIEC-CTC 2021 (Chinese Text Correction)
+## 数据及模型下载(2021.09.27更新)
+
+| - | 下载链接 | 访问密码 |
+| - | - | - | - | - | - | - |
+| 训练数据 | [讯飞云下载](http://pan.iflytek.com:80/link/0CF7992308445E72001ED08F53266D25) | girA |
+| baseline模型 | [讯飞云下载](http://pan.iflytek.com:80/link/A5ACCEB6F7F0182D6980559C14B3D760) | HJiB |
 
 ## 比赛当前排名(2021.09.03更新)
 
