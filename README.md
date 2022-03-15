@@ -27,6 +27,9 @@
 | 15 | zndx纠错好难 | ShanYouRan | 中南大学 | 17.714 | 9.714 | 16.114 |
 | 16 | DAWN | redbird | MideaAIIC | 6.326 | 3.128 | 5.686 |
 
+## 2022.03.15
+CTC 2021中文文本纠错比赛正式开放公开评测，榜单详情见[CTC 2021 Leaderboard](https://destwang.github.io/CTC2021-explorer/)，欢迎大家参与评测。
+
 ## 2021.09.01
 目前还有几支队伍的成绩正在评测中，预计明后天将会公布最后的榜单。
 
