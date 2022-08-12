@@ -27,6 +27,19 @@
 | 15 | zndx纠错好难 | ShanYouRan | 中南大学 | 17.714 | 9.714 | 16.114 |
 | 16 | DAWN | redbird | MideaAIIC | 6.326 | 3.128 | 5.686 |
 
+## 2022.08.12
+比赛[Overview论文](https://arxiv.org/pdf/2208.05681.pdf)已发布，引用请参考：
+
+```
+@Article{wang2022ctc,
+title={Overview of CTC 2021: Chinese Text Correction for Native Speakers},
+author={Zhao, Honghong and Wang, Baoxin and Wu, Dayong and Che, Wanxiang and Chen, Zhigang and Wang, Shijin},
+journal={arXiv preprint arXiv:2208.05681},
+year={2022}
+}
+```
+
+
 ## 2022.03.15
 CTC 2021中文文本纠错比赛正式开放公开评测，榜单详情见[CTC 2021 Leaderboard](https://destwang.github.io/CTC2021-explorer/)，欢迎大家参与评测。
 
