@@ -1,10 +1,11 @@
 # CIEC-CTC 2021 (Chinese Text Correction)
-## 数据及模型下载(2021.09.27更新)
+## 数据及模型下载(2021.11.03更新)
 
 | 下载内容 | 下载链接 | 访问密码 |
 | - | - | - |
 | 训练数据 | [讯飞云下载](http://pan.iflytek.com:80/link/0CF7992308445E72001ED08F53266D25) | girA |
 | baseline模型 | [讯飞云下载](http://pan.iflytek.com:80/link/A5ACCEB6F7F0182D6980559C14B3D760) | HJiB |
+| 验证集 | https://github.com/destwang/CTCResources | - |
 
 ## 2022.09.27
 [CAIL 2022文书校对比赛](http://cail.cipsc.org.cn/task2.html?raceID=2&cail_tag=2022)开始了！参赛时间2022.08.10-2022.11.15
